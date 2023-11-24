@@ -206,7 +206,7 @@ def detectFakeVideo(videoPath):
 def homepage():
   if request.method == 'GET':
 	  return render_template('index.html')
-  #return render_template('index.html')
+ # return render_template('index.html')
 
 
 @app.route('/Detect', methods=['POST', 'GET'])
@@ -232,4 +232,4 @@ def DetectPage():
         return render_template('index.html', data=data)
         
 
-app.run(port=7000);
+app.run(port=3000);
