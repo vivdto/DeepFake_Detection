@@ -232,4 +232,4 @@ def DetectPage():
         return render_template('index.html', data=data)
         
 
-app.run(port=3000);
+app.run(port=7000);
