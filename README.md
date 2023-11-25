@@ -15,7 +15,13 @@ We have developed a DeepFake Detection system using advanced deep-learning techn
 
 
 # Dataset and Model:
-The model is trained on the Celeb-DeepFakeForensics dataset. 
+- The Dataset we've used to train our model is [here](https://github.com/yuezunli/celeb-deepfakeforensics).
+
+- To find our trained model follow this [link](https://drive.google.com/drive/folders/1-zErGZ9T89TplQs3ws4QVRFlqE-ljW6l?usp=sharing).
+
+- To train our model we've took help from [here](https://github.com/abhijitjadhav1998/Deepfake_detection_using_deep_learning/tree/master/Model%20Creation).
+  Thanks to them!
+
 
 ![image](https://github.com/vivdto/DeepFake_Detection/assets/83788445/989abf1d-1709-4b26-b8f5-fd8f43494145)
 
