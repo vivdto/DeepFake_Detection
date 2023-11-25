@@ -1,4 +1,7 @@
 # Cutting-Edge DeepFake Detection Platform
+
+![Deep Fake Detection using DL  Minor Project  Sem V 'A'](https://github.com/vivdto/DeepFake_Detection/assets/83788445/90d0e543-4e52-4adb-b347-a9fa1a3efc2e)
+
 The advent of DeepFake technology has engendered both excitement and apprehension. The sophisticated capabilities of DeepFake algorithms have ushered in a new era of creative possibilities. This platform is dedicated to ensuring responsible use by providing an advanced DeepFake detection service.
 
 ![image](https://github.com/vivdto/DeepFake_Detection/assets/83788445/759e6339-7935-46a9-9ced-d38bc8896700)
